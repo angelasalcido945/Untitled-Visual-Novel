@@ -2,6 +2,12 @@
 
 This visual novel is an in-progress interactive game being developed using Ren'Py and Python. 
 
+## How to Use
+
+This project is currently in development and is run locally through the Ren'Py launcher.
+
+- To run the project, install Ren'Py and open the project through the Ren'Py launcher.
+
 ## About the Project 
 
 This is a personal project focused on building an interactive story through illustrated scenes, dialogue, character interactions, and branching narrative elements. 
